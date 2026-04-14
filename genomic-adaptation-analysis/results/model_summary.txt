@@ -1,0 +1,11 @@
+
+Model Results
+
+Logistic Regression Accuracy: 0.75
+Decision Tree Accuracy: 0.75
+
+Features used:
+- GC content
+- Scaled genome length
+
+Dataset size: 12 organisms
